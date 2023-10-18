@@ -12,7 +12,7 @@
 
 | <a > <img align="center" src="https://github-readme-stats.vercel.app/api?username=wuhuLee&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="wuhuLee's github stats" /> </a> | <a> <img align="center" src="https://streak-stats.demolab.com?user=wuhuLee&theme=jolly&hide_border=)](https://git.io/streak-stats" /> </a>
 | ------------- | ------------- |
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhuLee" /> </a> 
+ <a target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuhuLee&layout=compact" alt="Recent Article 2"></a>
  
 
 
